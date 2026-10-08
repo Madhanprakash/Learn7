@@ -1,0 +1,163 @@
+{
+  "framework": "SCALE",
+  "title": "Veera Yuga Nayagan Velpari — Sangam Era Tamil Civilization",
+
+  "subject": {
+    "name": "Vel Pari",
+    "description": "A legendary Sangam-era Tamil king and heroic Velir chieftain, portrayed as a noble warrior-ruler of ancient Tamilakam",
+    "appearance": {
+      "age": "approximately 30-40 years",
+      "physique": "strong, athletic, battle-hardened physique",
+      "face": "commanding yet compassionate expression, sharp traditional Tamil features, dignified eyes",
+      "hair": "long dark hair tied traditionally, slightly windswept",
+      "beard": "well-maintained traditional warrior beard",
+      "skin": "natural South Indian complexion with realistic skin texture"
+    },
+    "clothing": {
+      "upper_body": "minimal traditional Sangam-era warrior attire",
+      "lower_body": "richly woven traditional Tamil veshti-style garment",
+      "accessories": [
+        "ancient Tamil gold ornaments",
+        "traditional armlets",
+        "warrior wrist ornaments",
+        "subtle royal jewelry",
+        "traditional waist belt"
+      ],
+      "headwear": "ancient Tamil warrior head ornament, historically inspired rather than medieval crown"
+    },
+    "weapons": [
+      "traditional Tamil spear",
+      "curved ancient sword",
+      "wooden shield"
+    ],
+    "identity": "powerful Velir chieftain, protector of his people, generous king, fearless warrior"
+  },
+
+  "composition": {
+    "shot_type": "epic cinematic full-body hero shot",
+    "camera_angle": "slightly low angle emphasizing strength and leadership",
+    "framing": "Vel Pari positioned prominently in the foreground, occupying the central frame",
+    "depth": "strong foreground, middle-ground warriors and horses, expansive mountainous background",
+    "perspective": "cinematic depth of field with atmospheric perspective",
+    "visual_balance": "symmetrical heroic composition with natural environmental elements framing the character",
+    "aspect_ratio": "16:9",
+    "lens": "35mm cinematic lens",
+    "focus": "sharp focus on Vel Pari, gradually softer background"
+  },
+
+  "action": {
+    "primary_action": "Vel Pari stands proudly on a rocky elevation overlooking his kingdom",
+    "body_language": "confident warrior stance, shoulders upright, spear held firmly in one hand",
+    "facial_expression": "calm, fearless and authoritative, expressing courage and compassion rather than anger",
+    "secondary_action": [
+      "warriors standing behind him",
+      "horses prepared for battle",
+      "villagers and soldiers moving naturally in the distance",
+      "traditional flags moving in the wind"
+    ],
+    "environmental_motion": [
+      "wind moving his hair and garments",
+      "mist drifting through the mountains",
+      "tree branches gently moving",
+      "dust particles illuminated by sunlight"
+    ]
+  },
+
+  "location": {
+    "place": "ancient Tamilakam during the Sangam period",
+    "region": "Parambu Nadu, associated with Vel Pari",
+    "terrain": [
+      "dramatic Western Ghats-style mountains",
+      "dense ancient forests",
+      "rocky mountain paths",
+      "lush green valleys",
+      "natural waterfalls",
+      "mist-covered hills"
+    ],
+    "civilization": {
+      "architecture": "historically inspired ancient Tamil settlements",
+      "structures": [
+        "wood-and-thatch houses",
+        "stone pathways",
+        "traditional village structures",
+        "ancient fortification elements"
+      ],
+      "people": "Sangam-era Tamil people wearing historically inspired traditional clothing",
+      "culture": [
+        "Tamil warrior traditions",
+        "Velir chieftain culture",
+        "ancient agricultural life",
+        "traditional Tamil musical instruments",
+        "horse and elephant presence"
+      ]
+    },
+    "time": "Sangam period, approximately 1st-3rd century CE",
+    "weather": "early morning mountain atmosphere with light mist",
+    "lighting": "warm golden sunlight breaking through clouds and mountain mist"
+  },
+
+  "aesthetic": {
+    "style": "historical cinematic realism",
+    "visual_quality": "ultra-detailed, photorealistic, large-scale historical epic",
+    "mood": [
+      "heroic",
+      "majestic",
+      "ancient",
+      "powerful",
+      "dignified",
+      "spiritual"
+    ],
+    "color_palette": [
+      "earthy brown",
+      "deep green",
+      "stone gray",
+      "muted gold",
+      "warm sunlight"
+    ],
+    "lighting_style": "natural cinematic golden-hour lighting with volumetric rays",
+    "textures": [
+      "realistic skin",
+      "handwoven Tamil textiles",
+      "aged wood",
+      "weathered stone",
+      "natural vegetation",
+      "metal ornaments"
+    ],
+    "cinematography": {
+      "style": "Indian historical epic cinema",
+      "atmosphere": "grand and immersive",
+      "film_grain": "subtle cinematic film grain",
+      "dynamic_range": "high dynamic range",
+      "realism": "photorealistic historical reconstruction"
+    }
+  },
+
+  "negative_prompt": [
+    "modern clothing",
+    "modern buildings",
+    "modern weapons",
+    "medieval European armor",
+    "Viking clothing",
+    "Roman armor",
+    "fantasy armor",
+    "plastic-looking jewelry",
+    "modern crowns",
+    "superhero costume",
+    "science fiction elements",
+    "guns",
+    "modern vehicles",
+    "neon lighting",
+    "cartoon style",
+    "anime",
+    "exaggerated muscles",
+    "unrealistic facial proportions",
+    "generic Bollywood costume",
+    "generic fantasy king",
+    "historical inaccuracies",
+    "text",
+    "watermark",
+    "logo"
+  ],
+
+  "final_prompt": "Create a historically inspired, photorealistic cinematic portrayal of Vel Pari, the legendary Sangam-era Tamil Velir chieftain, standing proudly above the mist-covered mountains of ancient Parambu Nadu. He appears as a powerful but compassionate Tamil warrior-king wearing authentic-looking Sangam-era traditional clothing, ancient Tamil ornaments and carrying a traditional spear. His long dark hair moves naturally in the mountain wind. Behind him are Tamil warriors, horses, ancient settlements and dense Western-Ghats-like forests. Golden morning sunlight breaks through the mountain mist, creating dramatic volumetric rays. The scene should communicate courage, generosity, leadership and the grandeur of ancient Tamil civilization. Epic historical cinema, realistic South Indian features, natural skin texture, historically inspired clothing and weapons, cinematic 35mm composition, low-angle hero framing, atmospheric depth, ultra-detailed photorealism, 16:9."
+}
